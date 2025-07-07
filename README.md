@@ -93,4 +93,4 @@ Aplikasi ini bersifat open source dan tersedia di bawah [Lisensi MIT](LICENSE).
 
 ---
 
-&copy; 2024 SIPUDESA - Sistem Informasi Pendataan UKM Desa 
+&copy; 2024 SIPUDESA - Sistem Informasi Pendataan UKM Desa # Sistem-Pendataan-UKM-Desa
