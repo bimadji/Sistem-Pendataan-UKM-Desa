@@ -89,7 +89,7 @@ Aplikasi ini bersifat open source dan tersedia di bawah [Lisensi MIT](LICENSE).
 
 ## Kontributor
 
-- Nama Anda - [Email Anda](mailto:email@example.com)
+- Bima Adji Kusuma - bimaadjikusuma@gmail.com
 
 ---
 
